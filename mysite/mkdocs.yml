@@ -1,0 +1,19 @@
+site_name: 站点名字
+theme:
+  name: material
+  palette:
+    primary: black
+  language: zh
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.expand
+    - toc.follow
+    - navigation.top
+extra:
+  social:
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<email-address>
+      name: 发邮件
+
+copyright: Copyright &copy; 2016 - 2020 版权
